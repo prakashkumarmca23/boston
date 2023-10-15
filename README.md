@@ -4,7 +4,9 @@ This JavaScript program manipulates Boston-related data, sorting it based on spe
 
 ## Running the Program
 
-You can access and run the program [here](https://prakashkumarmca23.github.io/boston/).
+1. Ensure the `boston.js` file is properly linked within your project.
+2. Execute the JavaScript code to sort and manipulate the Boston data.
+3. Or You can access and run the program [here](https://prakashkumarmca23.github.io/boston/).
 
 ## Future Improvements
 
